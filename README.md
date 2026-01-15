@@ -1,27 +1,7 @@
-
-<!--
-**Anushka1590/Anushka1590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Anushka ✨
-
 I build AI/ML systems focused on computer vision, applied machine learning, and real-world problem solving.
-
 My experience includes developing end-to-end ML and deep learning applications, and working with LLMs through prompt engineering and evaluation.
-
 **Tech stack:** Python, PyTorch, Streamlit, OpenCV, SQL, OpenAI API.
-
 Currently strengthening DSA and CS fundamentals and actively seeking AI/ML opportunities.
 
 # Tech Stack:
@@ -37,5 +17,7 @@ Currently strengthening DSA and CS fundamentals and actively seeking AI/ML oppor
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-gupta-37442b249) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anugupta152005@gmail.com) 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
