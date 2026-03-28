@@ -5,7 +5,7 @@ My experience includes developing end-to-end ML and deep learning applications, 
 
 **Tech stack:** Python, PyTorch, Streamlit, OpenCV, SQL, OpenAI API.
 
-Currently strengthening DSA and CS fundamentals and actively seeking AI/ML opportunities.
+Currently strengthening DSA and CS fundamentals and actively seeking Gen AI/ML opportunities.
 
 
 # Tech Stack:
