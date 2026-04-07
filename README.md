@@ -1,9 +1,9 @@
 # Hi, I'm Anushka ✨
-I build AI/ML systems focused on computer vision, applied machine learning, and real-world problem solving.
+I build AI/ML systems focused on computer vision, applied machine learning and Generative AI for real-world problems.
 
-My experience includes developing end-to-end ML and deep learning applications, and working with LLMs through prompt engineering and evaluation.
+My experience includes developing end-to-end ML and deep learning applications, along with building LLM-powered systems using prompt engineering, evaluation, RAG pipelines, and LangChain.
 
-**Tech stack:** Python, PyTorch, Streamlit, OpenCV, SQL, OpenAI API.
+**Tech stack:** Python, PyTorch, Streamlit, OpenCV, SQL, LangChain, RAG, OpenAI API
 
 Currently strengthening DSA and CS fundamentals and actively seeking Gen AI/ML opportunities.
 
